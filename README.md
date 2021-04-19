@@ -8,9 +8,6 @@ At Glance
 ```
 ## More info
 
-Gov Tech Demo Miro
-https://miro.com/app/board/o9J_lT1a0Vs=/
-
 Dbt Github 
 https://github.com/fishtown-analytics/dbt
 
